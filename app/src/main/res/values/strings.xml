@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FSTApp</string>
+    <string name="new_user_title">New user</string>
+    <string name="name_hint">Name</string>
+    <string name="family_name_hint">Family
+Name</string>
+    <string name="e_mail_address_hint">E-mail
+address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_button_text">Add</string>
+    <string name="add_user_info_text">  All fields are
+required</string>
+</resources>

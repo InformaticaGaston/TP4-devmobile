@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FSTApp</string>
+    <string name="new_user_title">Nouveau Utilisateur</string>
+    <string name="name_hint">Prénom</string>
+    <string name="family_name_hint">Nom</string>
+    <string name="e_mail_address_hint">Adresse é-mail</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="add_button_text">Ajouter</string>
+    <string name="add_user_info_text">Tous les champs sont obligatoire</string>
+</resources>
